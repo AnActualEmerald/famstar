@@ -1,0 +1,9 @@
+[submodule "famstar-server"]
+	path = famstar-server
+	url = git@github.com:AnActualEmerald/famstar-server
+[submodule "famstar-site"]
+	path = famstar-site
+	url = git@github.com:AnActualEmerald/famstar-site
+[submodule "famstar-client"]
+	path = famstar-client
+	url = git@github.com:AnActualEmerald/famstar-client
